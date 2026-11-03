@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <rect width="120" height="120" rx="26" fill="#123a3a"/>
+  <g transform="translate(60 61) rotate(15) scale(0.86) translate(-60 -60)">
+    <polygon points="60,4 108,32 108,88 60,116 12,88 12,32" fill="#8f2a1c"/>
+    <g stroke="#7a2116" stroke-width="2" stroke-linejoin="round">
+      <polygon points="60,4 108,32 60,26" fill="#d9442f"/>
+      <polygon points="60,4 12,32 60,26" fill="#e8553c"/>
+      <polygon points="108,32 108,88 94,84" fill="#b7351f"/>
+      <polygon points="12,32 12,88 26,84" fill="#e8553c"/>
+      <polygon points="108,32 94,84 60,26" fill="#d9442f"/>
+      <polygon points="12,32 26,84 60,26" fill="#e8553c"/>
+      <polygon points="108,88 60,116 94,84" fill="#b7351f"/>
+      <polygon points="12,88 60,116 26,84" fill="#d9442f"/>
+      <polygon points="60,116 26,84 94,84" fill="#d9442f"/>
+      <polygon points="60,26 94,84 26,84" fill="#f0634a"/>
+    </g>
+    <text x="60" y="73" text-anchor="middle" font-family="Georgia, serif" font-weight="800" font-size="30" fill="#fff">22</text>
+  </g>
+</svg>
